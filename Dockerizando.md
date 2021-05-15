@@ -18,3 +18,5 @@ Para consultar em
 
 http://localhost:5555/identity/account/register
 
+Uma segunda etapa da dockerização será carregar os dados necesarios para testar o sistema
+
