@@ -20,3 +20,8 @@ http://localhost:5555/identity/account/register
 
 Uma segunda etapa da dockerização será carregar os dados necesarios para testar o sistema
 
+
+docker run -d -p 5000:80 boiler-mukesk
+
+https://soundcloud.com/julian-gamboa-189310477
+
